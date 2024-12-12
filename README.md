@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Front End, Databse and Backend Programming
 - 🌱 I’m currently learning ... HTML5, CSS, Javascript, MySQL & Python
 - 💞️ I’m looking to collaborate on ... developing Prograssive Web Application development..
-- 📫 How to reach me ...+91 9029558838
+- 📫 How to reach me ...+91 8591518244
 
 <!---
 vinayraje/vinayraje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
